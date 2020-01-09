@@ -1,0 +1,85 @@
+bulan,hari,jam,jumlah,kategori
+11,senin,8,19,Terisi
+11,senin,9,17,Terisi
+11,senin,10,25,Penuh
+11,senin,11,30,Penuh Sekali
+11,senin,12,39,Tidak Muat
+11,senin,13,36,Penuh Sekali
+11,senin,14,36,Penuh Sekali
+11,senin,15,27,Penuh
+11,senin,16,25,Penuh
+11,senin,17,18,Terisi
+11,senin,18,19,Terisi
+11,senin,19,10,Terisi
+11,selasa,8,29,Penuh
+11,selasa,9,22,Penuh
+11,selasa,10,23,Penuh
+11,selasa,11,24,Penuh
+11,selasa,12,25,Penuh
+11,selasa,13,25,Penuh
+11,selasa,14,30,Penuh Sekali
+11,selasa,15,33,Penuh Sekali
+11,selasa,16,32,Penuh Sekali
+11,selasa,17,21,Penuh
+11,selasa,18,17,Terisi
+11,selasa,19,13,Terisi
+11,rabu,8,8,Terisi
+11,rabu,9,7,Terisi
+11,rabu,10,6,Terisi
+11,rabu,11,11,Terisi
+11,rabu,12,10,Terisi
+11,rabu,13,19,Terisi
+11,rabu,14,22,Penuh
+11,rabu,15,29,Penuh
+11,rabu,16,27,Penuh
+11,rabu,17,22,Penuh
+11,rabu,18,17,Terisi
+11,rabu,19,7,Terisi
+11,kamis,8,19,Terisi
+11,kamis,9,18,Terisi
+11,kamis,10,13,Terisi
+11,kamis,11,10,Terisi
+11,kamis,12,29,Penuh
+11,kamis,13,33,Penuh Sekali
+11,kamis,14,24,Penuh
+11,kamis,15,30,Penuh Sekali
+11,kamis,16,22,Penuh
+11,kamis,17,16,Terisi
+11,kamis,18,11,Terisi
+11,kamis,19,5,Terisi
+11,jumat,8,9,Terisi
+11,jumat,9,14,Terisi
+11,jumat,10,11,Terisi
+11,jumat,11,19,Terisi
+11,jumat,12,36,Penuh Sekali
+11,jumat,13,30,Penuh Sekali
+11,jumat,14,24,Penuh
+11,jumat,15,20,Penuh
+11,jumat,16,14,Terisi
+11,jumat,17,5,Terisi
+11,jumat,18,16,Terisi
+11,jumat,19,6,Terisi
+11,sabtu,8,2,Terisi
+11,sabtu,9,6,Terisi
+11,sabtu,10,6,Terisi
+11,sabtu,11,4,Terisi
+11,sabtu,12,11,Terisi
+11,sabtu,13,17,Terisi
+11,sabtu,14,10,Terisi
+11,sabtu,15,9,Terisi
+11,sabtu,16,11,Terisi
+11,sabtu,17,6,Terisi
+11,sabtu,18,14,Terisi
+11,sabtu,19,6,Terisi
+11,minggu,8,5,Terisi
+11,minggu,9,8,Terisi
+11,minggu,10,5,Terisi
+11,minggu,11,10,Terisi
+11,minggu,12,11,Terisi
+11,minggu,13,17,Terisi
+11,minggu,14,11,Terisi
+11,minggu,15,10,Terisi
+11,minggu,16,10,Terisi
+11,minggu,17,7,Terisi
+11,minggu,18,13,Terisi
+11,minggu,19,8,Terisi
